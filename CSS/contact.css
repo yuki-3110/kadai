@@ -1,0 +1,41 @@
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  width: 150px;
+  color: black;
+  text-align: right;
+}
+
+.contact td{
+  width: 480px;
+  padding-left: 1rem;
+}
+
+.name{
+  width: 480px;
+}
+
+.address{
+  width: 480px;
+}
+
+textarea{
+  width: 480px;
+}
+
+.submit{
+  font-size: 3rem;
+  color: white;
+  background-color:#008B8B;
+  padding: 10px 10px;
+}
+
+.submit:hover{
+  opacity: 0.6;
+}
+
+.botton{
+    text-align: center;
+}
